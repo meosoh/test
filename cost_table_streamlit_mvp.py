@@ -2,7 +2,8 @@ import copy from datetime
 import date, datetime from typing
 import Any, Dict, List
 
-import pandas as pd import streamlit as st
+import pandas as pd
+import streamlit as st
 
 st.set_page_config(page_title="コストテーブルMVP", layout="wide")
 
